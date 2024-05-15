@@ -1942,7 +1942,6 @@ daftarSitus1038 = [
 'ch-herrero.com',
 'stcleaner.com',
 'skycaptech.com',
-'keenu.pk',
 'waystogame.com',
 'arianamotorslv.com',
 'butterflydecor.ru',
